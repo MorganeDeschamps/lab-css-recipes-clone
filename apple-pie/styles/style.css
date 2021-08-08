@@ -1,0 +1,20 @@
+.header {
+    background-image: url("file:///Users/morganedeschamps/code/Pizza-Bytes/m1-d04-class/lab-css-recipes-clone/apple-pie/images/apple-pie.jpg");
+    background-size: 100%;
+    background-position: 0% 50%;
+    height: auto;
+}
+
+/*
+.header img {
+    position: absolute;
+    object-fit: contain;
+    z-index: -1;
+}*/
+
+.header h1 {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
